@@ -1,0 +1,172 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: C:\Users\Миш\Desktop\soft-club.site\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://soft-club.site/css/form.css
+File Name: C:\Users\Миш\Desktop\soft-club.site\css\form.css
+Content Type: text/css
+
+Uri: https://soft-club.site/css/sweetalert.min.css
+File Name: C:\Users\Миш\Desktop\soft-club.site\css\sweetalert.min.css
+Content Type: text/css
+
+Uri: https://soft-club.site/data/2639cd72a98860309ea5639363f2df4d.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\2639cd72a98860309ea5639363f2df4d.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/29370b67ce1ab8a2944a4539adfa7bbf.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\29370b67ce1ab8a2944a4539adfa7bbf.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/32add45072d209f507ced3fd966ec8ef.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\32add45072d209f507ced3fd966ec8ef.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/37504c6a25a2b9ec2199f0bbdd9a8010.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\37504c6a25a2b9ec2199f0bbdd9a8010.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/3dmax.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\3dmax.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/3e8b1bcde00a63453e1f14f2958edbc7.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\3e8b1bcde00a63453e1f14f2958edbc7.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/64dad2d8994fd0f6444a358087750bf4.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\64dad2d8994fd0f6444a358087750bf4.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/6765b2098d9b9ec4f8baaa4bdf2cdb61.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\6765b2098d9b9ec4f8baaa4bdf2cdb61.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/7008ef36b662d1b7aa6dcdd885d35174.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\7008ef36b662d1b7aa6dcdd885d35174.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/8bd4361ae40483ef8efb5ea5e41989b8.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\8bd4361ae40483ef8efb5ea5e41989b8.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/aa.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\aa.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/Adobe_Audition.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\Adobe_Audition.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/Adobe_Lightroom.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\Adobe_Lightroom.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/app-icons.min.js
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\app-icons.min.js
+Content Type: application/javascript
+
+Uri: https://soft-club.site/data/app.min.js
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\app.min.js
+Content Type: application/javascript
+
+Uri: https://soft-club.site/data/bandicam-official-logo-icon.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\bandicam-official-logo-icon.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/c810afa6699a51903cfc50fe47746adb.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\c810afa6699a51903cfc50fe47746adb.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/com.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\com.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/DaVinci_Resolve.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\DaVinci_Resolve.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/exitla.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\exitla.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/f5c0fcb61f5170fc0952f03dbeda263d.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\f5c0fcb61f5170fc0952f03dbeda263d.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/f9ce94e8cc7abac2eb1a017c8664098e.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\f9ce94e8cc7abac2eb1a017c8664098e.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/figma2.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\figma2.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/HelveticaNowDisplay-Bold.woff2
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\HelveticaNowDisplay-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://soft-club.site/data/HelveticaNowDisplay-Regular.woff2
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\HelveticaNowDisplay-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://soft-club.site/data/hwid.jpg
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\hwid.jpg
+Content Type: image/jpeg
+
+Uri: https://soft-club.site/data/logo3.svg
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\logo3.svg
+Content Type: image/svg+xml
+
+Uri: https://soft-club.site/data/Microsoft_Office_.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\Microsoft_Office_.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/rev.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\rev.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/sap.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\sap.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/scet.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\scet.png
+Content Type: image/png
+
+Uri: https://soft-club.site/data/style.min.css
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\style.min.css
+Content Type: text/css
+
+Uri: https://soft-club.site/data/Wallpaper_Engine_Logo_Animated.gif
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\Wallpaper_Engine_Logo_Animated.gif
+Content Type: image/gif
+
+Uri: https://soft-club.site/data/xd.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\data\xd.png
+Content Type: image/png
+
+Uri: https://soft-club.site/index.php?v=892330
+File Name: C:\Users\Миш\Desktop\soft-club.site\index.php.html
+Content Type: text/html
+
+Uri: https://soft-club.site/js/form.js
+File Name: C:\Users\Миш\Desktop\soft-club.site\js\form.js
+Content Type: application/javascript
+
+Uri: https://soft-club.site/js/sweetalert.min.js
+File Name: C:\Users\Миш\Desktop\soft-club.site\js\sweetalert.min.js
+Content Type: application/javascript
+
+Uri: https://soft-club.site/watch/90874049
+File Name: C:\Users\Миш\Desktop\soft-club.site\watch\90874049
+Content Type: application/octet-stream
+
+Uri: https://soft-club.site/wikipedia/en/4/4a/CCleaner_logo_2013.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\wikipedia\en\4\4a\CCleaner_logo_2013.png
+Content Type: image/png
+
+Uri: https://soft-club.site/wp-content/uploads/2020/12/Autocad-Logo.png
+File Name: C:\Users\Миш\Desktop\soft-club.site\wp-content\uploads\2020\12\Autocad-Logo.png
+Content Type: image/png
+
