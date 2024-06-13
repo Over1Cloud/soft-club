@@ -106,9 +106,9 @@ function highlightCorrectAnswer(correctAnswer) {
 
 
 
-// Функция для выполнения парсинга и действий
+// Функция для выполнения парсинга и действийhttps://github.com/Over1Cloud/soft-club/blob/main/answers.json
 async function parseAndProcess() {
-  const data = await fetchJSON('https://raw.githubusercontent.com/Over1Cloud/rostrans/main/answers.json');
+  const data = await fetchJSON('https://raw.githubusercontent.com/Over1Cloud/soft-club/main/answers.json');
   const textOnPage = document.body.innerText;
   const answer = checkQuestion(textOnPage, data);
 
